@@ -2,7 +2,7 @@ Title:
 RGB-Color
 
 Introduction:
-Create a RGB Color application using Swift Language.
+Create a 'RGB Color' application using Swift Language.
 
 Video of the Application:
 
